@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e43d5ad-9142-4bd9-ae95-c9fb5c5c0bf2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="dummy://restClient/response49.json" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1Uj4lqSOOe3645DsVDiayULGCRi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.13.1" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="users" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{  &quot;user_name&quot;:&quot;tinhle&quot;, &quot;user_cmnd&quot;:&quot;15523251&quot;  }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="users" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="{  &quot;user_name&quot;:&quot;tinhle&quot;, &quot;user_cmnd&quot;:&quot;15523251&quot;  }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="users" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="&quot;user_name&quot;" />
+                <option name="value" value="&quot;tinhle&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_cmnd" />
+                <option name="value" value="1234541231" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_phone" />
+                <option name="value" value="1232131" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_address" />
+                <option name="value" value="hcm" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_mail" />
+                <option name="value" value="tinh@gmail.com" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_password" />
+                <option name="value" value="123456" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_username" />
+                <option name="value" value="tinhleele" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="users" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="&quot;user_name&quot;" />
+                <option name="value" value="&quot;tinhle&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_cmnd" />
+                <option name="value" value="1234541231" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_phone" />
+                <option name="value" value="1232131" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_address" />
+                <option name="value" value="hcm" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_mail" />
+                <option name="value" value="tinh@gmail.com" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_password" />
+                <option name="value" value="123456" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_username" />
+                <option name="value" value="tinhleele" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="users" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="&quot;user_name&quot;" />
+                <option name="value" value="&quot;tinhle&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_cmnd" />
+                <option name="value" value="1234541231" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_phone" />
+                <option name="value" value="1232131" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_address" />
+                <option name="value" value="hcm" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_mail" />
+                <option name="value" value="tinh@gmail.com" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_password" />
+                <option name="value" value="123456" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_username" />
+                <option name="value" value="tinhleele" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="users" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="&quot;user_name&quot;" />
+                <option name="value" value="&quot;tinhle&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_cmnd" />
+                <option name="value" value="1234541231" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_phone" />
+                <option name="value" value="1232131" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_address" />
+                <option name="value" value="hcm" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_mail" />
+                <option name="value" value="tinh@gmail.com" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_password" />
+                <option name="value" value="123456" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_username" />
+                <option name="value" value="tinhleele" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="users" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="user_name" />
+                <option name="value" value="tinhle" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_cmnd" />
+                <option name="value" value="1234541231" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_phone" />
+                <option name="value" value="1232131" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_address" />
+                <option name="value" value="hcm" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_mail" />
+                <option name="value" value="tinh@gmail.com" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_password" />
+                <option name="value" value="123456" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="user_username" />
+                <option name="value" value="tinhleele" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="users/11" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="users" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="users/12" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e43d5ad-9142-4bd9-ae95-c9fb5c5c0bf2" name="Default Changelist" comment="" />
+      <created>1575856824269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575856824269</updated>
+      <workItem from="1575856826500" duration="15622000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1362" height="245" key="GridCell.Tab.0.bottom" timestamp="1575873210923">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="245" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575873210923" />
+    <state width="1362" height="245" key="GridCell.Tab.0.center" timestamp="1575873210923">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="245" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575873210923" />
+    <state width="1362" height="245" key="GridCell.Tab.0.left" timestamp="1575873210923">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="245" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575873210923" />
+    <state width="1362" height="245" key="GridCell.Tab.0.right" timestamp="1575873210923">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="245" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575873210923" />
+    <state x="740" y="324" key="RestClientTextRequest" timestamp="1575864068615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="324" key="RestClientTextRequest/0.0.1920.1040@0.0.1920.1040" timestamp="1575864068615" />
+    <state x="616" y="242" key="run.anything.popup" timestamp="1575859415798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1575859415798" />
+  </component>
+</project>

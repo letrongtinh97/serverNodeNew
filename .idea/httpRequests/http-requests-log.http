@@ -1,0 +1,198 @@
+POST http://localhost:3000/users
+Accept: */*
+Cache-Control: no-cache
+
+{  "user_name":"tinhle", "user_cmnd":"15523251"  }
+
+<> 2019-12-09T110325.500.json
+
+###
+
+POST http://localhost:3000/users
+Accept: */*
+Cache-Control: no-cache
+
+{  "user_name":"tinhle", "user_cmnd":"15523251"  }
+
+<> 2019-12-09T110226.500.json
+
+###
+
+POST http://localhost:3000/users
+Accept: */*
+Cache-Control: no-cache
+
+{  "user_name":"tinhle", "user_cmnd":"15523251"  }
+
+<> 2019-12-09T110153.500.json
+
+###
+
+POST http://localhost:3000/users
+Accept: */*
+Cache-Control: no-cache
+
+{  "user_name":"tinhle", "user_cmnd":"15523251"  }
+
+<> 2019-12-09T110125.500.json
+
+###
+
+POST http://localhost:3000/users?"user_name"="tinhle"&user_cmnd=1234541231&user_phone=1232131&user_address=hcm&user_mail=tinh@gmail.com&user_password=123456&user_username=tinhleele
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-09T105858.500.json
+
+###
+
+POST http://localhost:3000/users?"user_name"="tinhle"&user_cmnd=1234541231&user_phone=1232131&user_address=hcm&user_mail=tinh@gmail.com&user_password=123456&user_username=tinhleele
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-09T105821.500.json
+
+###
+
+POST http://localhost:3000/users?"user_name"="tinhle"&user_cmnd=1234541231&user_phone=1232131&user_address=hcm&user_mail=tinh@gmail.com&user_password=123456&user_username=tinhleele
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-09T105749.500.json
+
+###
+
+POST http://localhost:3000/users?"user_name"="tinhle"&user_cmnd=1234541231&user_phone=1232131&user_address=hcm&user_mail=tinh@gmail.com&user_password=123456&user_username=tinhleele
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-09T105718.500.json
+
+###
+
+POST http://localhost:3000/users?"user_name"="tinhle"&user_cmnd=1234541231&user_phone=1232131&user_address=hcm&user_mail=tinh@gmail.com&user_password=123456&user_username=tinhleele
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-09T105635.500.json
+
+###
+
+POST http://localhost:3000/users?"user_name"="tinhle"&user_cmnd=1234541231&user_phone=1232131&user_address=hcm&user_mail=tinh@gmail.com&user_password=123456&user_username=tinhleele
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-09T105552.500.json
+
+###
+
+POST http://localhost:3000/users?user_name=tinhle&user_cmnd=1234541231&user_phone=1232131&user_address=hcm&user_mail=tinh@gmail.com&user_password=123456&user_username=tinhleele
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-09T105456.500.json
+
+###
+
+POST http://localhost:3000/users?user_name=tinhle&user_cmnd=1234541231&user_phone=1232131&user_address=hcm&user_mail=tinh@gmail.com&user_password=123456&user_username=tinhleele
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-09T105400.500.html
+
+###
+
+POST http://localhost:3000/users?user_name=tinhle&user_cmnd=1234541231&user_phone=1232131&user_address=hcm&user_mail=tinh@gmail.com&user_password=123456&user_username=tinhleele
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-09T105241.500.html
+
+###
+
+POST http://localhost:3000/users?user_name=tinhle&user_cmnd=1234541231&user_phone=1232131&user_address=hcm&user_mail=tinh@gmail.com&user_password=123456&user_username=tinhleele
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-09T105152.500.html
+
+###
+
+POST http://localhost:3000/users?user_name=tinhle&user_cmnd=1234541231&user_phone=1232131&user_address=hcm&user_mail=tinh@gmail.com&user_password=123456&user_username=tinhleele
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-09T104805.500.html
+
+###
+
+POST http://localhost:3000/users?user_name=tinhle&user_cmnd=1234541231&user_phone=1232131&user_address=hcm&user_mail=tinh@gmail.com&user_password=123456&user_username=tinhleele
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-09T104728.200.html
+
+###
+
+GET http://localhost:3000/users/11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-09T103106.200.json
+
+###
+
+GET http://localhost:3000/users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-09T103051.200.json
+
+###
+
+GET http://localhost:3000/users/12
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-09T103007.200.json
+
+###
+
+GET http://localhost:3000/users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-09T102137.200.json
+
+###
+
+GET http://localhost:3000/users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-09T102109.200.json
+
+###
+
+GET http://localhost:3000/users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-09T100710.200.json
+
+###
+
+GET http://localhost:3000/users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-09T100639.200.json
+
+###
+
+GET http://localhost:300-/users
+Accept: */*
+Cache-Control: no-cache
+
+###
+
