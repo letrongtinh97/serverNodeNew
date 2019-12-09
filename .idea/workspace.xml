@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e43d5ad-9142-4bd9-ae95-c9fb5c5c0bf2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middlewares/middleware.services.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/admins/admin.controllers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/auth.controllers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/calenders/calender.controllers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/courses/course.controllers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/courses/course.models.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/payments/payment.controllers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/payments/payment.models.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/qr.controllers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/schedules/schedule.controllers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/schedules/schedule.models.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/students/student.controllers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/teachers/teacher.controllers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/db.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/users/user.controllers.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/users/user.controllers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/users/user.models.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/users/user.models.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -657,7 +638,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575856824269</updated>
       <workItem from="1575856826500" duration="15622000" />
-      <workItem from="1575906573716" duration="10383000" />
+      <workItem from="1575906573716" duration="20239000" />
     </task>
     <servers />
   </component>
@@ -685,6 +666,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="324" key="RestClientTextRequest/0.0.1920.1040@0.0.1920.1040" timestamp="1575864068615" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1575929739808">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1575929739808" />
     <state x="616" y="242" key="run.anything.popup" timestamp="1575859415798">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

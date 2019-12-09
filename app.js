@@ -7,6 +7,12 @@ var logger = require('morgan');
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users/user.controllers');
 const courseRouter = require('./routes/courses/course.controllers');
+const adminRouter = require('./routes/admins/admin.controllers');
+const calenderRouter = require('./routes/calenders/calender.controllers')
+const paymentRouter = require('./routes/payments/payment.controllers')
+const scheduleRouter = require('./routes/schedules/schedule.controllers')
+const studentRouter = require('./routes/students/student.controllers')
+const teacherRouter = require('./routes/teachers/teacher.controllers')
 var app = express();
 
 // view engine setup
