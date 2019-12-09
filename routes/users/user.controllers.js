@@ -57,14 +57,7 @@ app.route('/:id')
             })
     })
     .post((req, res) => {
-        db.postgre
-            .run()
-            .then((rs)=> {
-                return res.status(200).json(statusOut.success(rs.rows))
-            })
-            .catch(()=>{
-                return res.status(500).json(statusOut.errorAll())
-            })
+       res.send('no use post')
     })
     .put((req, res) =>{
         const {user_name, user_cmnd, user_phone, user_address, user_mail, user_password, user_username} = req.body
@@ -78,6 +71,7 @@ app.route('/:id')
             user_password,
             user_username
         }
+        console.log(queries.updateById(req.params.id,data))
         db.postgre
             .run(queries.updateById(req.params.id,data))
             .then((rs)=> {

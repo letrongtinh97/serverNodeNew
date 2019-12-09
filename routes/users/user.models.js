@@ -46,11 +46,11 @@ const updateById = (id, data) =>{
         }
     });
     Object.keys(data).forEach(key =>{
-        str+=(key + '='+data[key])
+        str+=(key + `='`+data[key])+`'`
         str+=','
     })
     const strIn = str.substring(0,str.length-1)
-    console.log(strIn)
+    //console.log(strIn)
 
     return `UPDATE tbl_profile_user
             SET ${strIn}

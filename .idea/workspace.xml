@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e43d5ad-9142-4bd9-ae95-c9fb5c5c0bf2" name="Default Changelist" comment="" />
+    <list default="true" id="8e43d5ad-9142-4bd9-ae95-c9fb5c5c0bf2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middlewares/middleware.services.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/admins/admin.controllers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/auth.controllers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/calenders/calender.controllers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/courses/course.controllers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/courses/course.models.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/payments/payment.controllers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/payments/payment.models.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/qr.controllers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/schedules/schedule.controllers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/schedules/schedule.models.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/students/student.controllers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/teachers/teacher.controllers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/users/user.controllers.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/users/user.controllers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/users/user.models.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/users/user.models.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +37,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="dummy://restClient/response49.json" root0="SKIP_INSPECTION" />
+    <setting file="dummy://restClient/response27.json" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1Uj4lqSOOe3645DsVDiayULGCRi" />
   <component name="ProjectViewState">
@@ -25,8 +51,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.13.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
@@ -34,7 +62,196 @@
     <option name="REQUEST_HISTORY">
       <list>
         <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="users/11" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{  &quot;user_name&quot;:&quot;tinhle&quot;, &quot;user_cmnd&quot;:&quot;15523251&quot;  }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="users/13" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{  &quot;user_name&quot;:&quot;tinhle&quot;, &quot;user_cmnd&quot;:&quot;15523251&quot;  }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="users/13" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{  &quot;user_name&quot;:&quot;tinhle&quot;, &quot;user_cmnd&quot;:&quot;15523251&quot;  }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="users/13" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{  &quot;user_name&quot;:&quot;tinhle&quot;, &quot;user_cmnd&quot;:&quot;15523251&quot;  }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="users/12" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{  &quot;user_name&quot;:&quot;tinhle&quot;, &quot;user_cmnd&quot;:&quot;15523251&quot;  }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
           <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="users" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{  &quot;user_name&quot;:&quot;tinhle&quot;, &quot;user_cmnd&quot;:&quot;15523251&quot;  }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="users/12" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{  &quot;user_name&quot;:&quot;tinhle&quot;, &quot;user_cmnd&quot;:&quot;15523251&quot;  }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="users/1" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{  &quot;user_name&quot;:&quot;tinhle&quot;, &quot;user_cmnd&quot;:&quot;15523251&quot;  }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="users/1" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{  &quot;user_name&quot;:&quot;tinhle&quot;, &quot;user_cmnd&quot;:&quot;15523251&quot;  }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:3000" />
           <option name="urlPath" value="users" />
           <option name="headers">
@@ -407,6 +624,16 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Node.js.qr.controllers.js">
+    <configuration name="qr.controllers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/routes/qr.controllers.js" working-dir="$PROJECT_DIR$/routes">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.qr.controllers.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -430,6 +657,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575856824269</updated>
       <workItem from="1575856826500" duration="15622000" />
+      <workItem from="1575906573716" duration="10383000" />
     </task>
     <servers />
   </component>
@@ -437,22 +665,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1362" height="245" key="GridCell.Tab.0.bottom" timestamp="1575873210923">
+    <state width="1362" height="266" key="GridCell.Tab.0.bottom" timestamp="1575921366298">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="245" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575873210923" />
-    <state width="1362" height="245" key="GridCell.Tab.0.center" timestamp="1575873210923">
+    <state width="1362" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575921366298" />
+    <state width="1362" height="266" key="GridCell.Tab.0.center" timestamp="1575921366298">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="245" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575873210923" />
-    <state width="1362" height="245" key="GridCell.Tab.0.left" timestamp="1575873210923">
+    <state width="1362" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575921366298" />
+    <state width="1362" height="266" key="GridCell.Tab.0.left" timestamp="1575921366298">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="245" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575873210923" />
-    <state width="1362" height="245" key="GridCell.Tab.0.right" timestamp="1575873210923">
+    <state width="1362" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575921366298" />
+    <state width="1362" height="266" key="GridCell.Tab.0.right" timestamp="1575921366298">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="245" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575873210923" />
+    <state width="1362" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575921366298" />
     <state x="740" y="324" key="RestClientTextRequest" timestamp="1575864068615">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
